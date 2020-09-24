@@ -1,7 +1,7 @@
 | PSP2.1                                | Personal Software Process Stages | 预估耗时/mins | 实际耗时/mins |
 | ------------------------------------- | -------------------------------- | ------------- | ------------- |
 | Planning                              | 计划                             | 60            |               |
-| Estimate                              | 估计这个任务需要多少时间         | 1440          |               |
+| Estimate                              | 估计这个任务需要多少时间         | 30          |               |
 | Development                           | 开发                             | 720           |               |
 | Analysis                              | 需求分析                         | 60            |               |
 | Design Spec                           | 生成设计文档                     | 60            |               |
