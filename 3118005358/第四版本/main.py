@@ -26,12 +26,18 @@
                                             ————2020.9.24~
 """
 
+"""
+    第四次更新：
+    1、
+    稍作模块化
+    2、
+    代码稍作规范
+"""
 
 import re
 import sys
 import jieba
-from gensim import corpora, models, similarities
-from collections import defaultdict
+from gensim import corpora
 from gensim.similarities import Similarity
 
 
