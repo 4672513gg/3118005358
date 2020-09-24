@@ -90,7 +90,7 @@ if __name__ == '__main__':
             doc1 = filter.sub('', doc1)
             doc2 = filter.sub('', doc2)
 
-            # 将文本载入一个列表，待分词
+            
     except Exception as error:
         if flag != 1:
             print("")
